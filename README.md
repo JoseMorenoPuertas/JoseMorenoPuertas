@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola 👋, Me llamo José Manuel
+#### Soluciones para el camino
+![Soluciones para el camino](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+Llevo en este mundillo, tanto como para saber que hay muchas soluciones para un mismo desarrollo, la diferencia está en la facilidad. Me gustar aplicar la metodología KISS
+
+Habilidades: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 Estoy trabajando en this page. 
 
 <!--
 **JoseMorenoPuertas/JoseMorenoPuertas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
